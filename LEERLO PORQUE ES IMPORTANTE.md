@@ -11,7 +11,7 @@ using System;
     {
         static void Main(string[] args)
         {
-// Variables //
+ 	// Variables //
 		string cliente = " ";
 		String respuesta;
 		String respuesta1;
